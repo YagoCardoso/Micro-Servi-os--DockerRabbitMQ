@@ -1,0 +1,88 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.ide/
+*.ncrunchsolution
+*.ncrunchproject
+
+# Visual Studio 2019
+.vscode/
+.vs/
+.vscode-test/
+.vscode-test-log/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Rider
+.idea/
+*.sln.iml
+
+# ReSharper
+_ReSharper.Caches/
+_ReSharper*/
+
+# DotCover
+*.dcvr
+
+# NCrunch
+.ncrunchsolution
+.ncrunchproject
+
+# Prebuild 
+*.prebuild
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Mac OS generated files
+.DS_Store
+
+# Begin .NET specific entries
+# Include if the tool has a project file
+# if using the old project.json format
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Auto generated files (make sure to include this)
+*.ide/
+*.ncrunchsolution
+*.ncrunchproject
