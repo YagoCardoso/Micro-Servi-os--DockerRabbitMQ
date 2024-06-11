@@ -1,0 +1,13 @@
+/Users/yago/dotnetCore/EnterpriseMicroservices/OrderService/OrderService.Tests/obj/Debug/net8.0/OrderService.Tests.csproj.AssemblyReference.cache
+/Users/yago/dotnetCore/EnterpriseMicroservices/OrderService/OrderService.Tests/obj/Debug/net8.0/OrderService.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yago/dotnetCore/EnterpriseMicroservices/OrderService/OrderService.Tests/obj/Debug/net8.0/OrderService.Tests.AssemblyInfoInputs.cache
+/Users/yago/dotnetCore/EnterpriseMicroservices/OrderService/OrderService.Tests/obj/Debug/net8.0/OrderService.Tests.AssemblyInfo.cs
+/Users/yago/dotnetCore/EnterpriseMicroservices/OrderService/OrderService.Tests/obj/Debug/net8.0/OrderService.Tests.csproj.CoreCompileInputs.cache
+/Users/yago/dotnetCore/EnterpriseMicroservices/OrderService/OrderService.Tests/obj/Debug/net8.0/OrderService.Tests.sourcelink.json
+/Users/yago/dotnetCore/EnterpriseMicroservices/OrderService.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_OrderService.Tests
+/Users/yago/dotnetCore/EnterpriseMicroservices/OrderService.Tests/obj/Debug/net8.0/OrderService.Tests.csproj.AssemblyReference.cache
+/Users/yago/dotnetCore/EnterpriseMicroservices/OrderService.Tests/obj/Debug/net8.0/OrderService.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yago/dotnetCore/EnterpriseMicroservices/OrderService.Tests/obj/Debug/net8.0/OrderService.Tests.AssemblyInfoInputs.cache
+/Users/yago/dotnetCore/EnterpriseMicroservices/OrderService.Tests/obj/Debug/net8.0/OrderService.Tests.AssemblyInfo.cs
+/Users/yago/dotnetCore/EnterpriseMicroservices/OrderService.Tests/obj/Debug/net8.0/OrderService.Tests.csproj.CoreCompileInputs.cache
+/Users/yago/dotnetCore/EnterpriseMicroservices/OrderService.Tests/obj/Debug/net8.0/OrderService.Tests.sourcelink.json
