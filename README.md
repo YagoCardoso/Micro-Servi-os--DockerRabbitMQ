@@ -1,9 +1,10 @@
 
+```markdown
 # EnterpriseMicroservices
 
 ## Descrição do Projeto
 
-O projeto EnterpriseMicroservices é uma aplicação composta por três micro-serviços: `UserService`, `OrderService` e `NotificationService`. Cada micro-serviço foi desenvolvido utilizando .NET 8, seguindo as melhores práticas de arquitetura de software, incluindo princípios de SOLID, Clean Code, TDD (Test-Driven Development) e integração com RabbitMQ e Docker.
+O projeto **EnterpriseMicroservices** é uma aplicação composta por três micro-serviços: `UserService`, `OrderService` e `NotificationService`. Cada micro-serviço foi desenvolvido utilizando .NET 8, seguindo as melhores práticas de arquitetura de software, incluindo princípios de SOLID, Clean Code, TDD (Test-Driven Development) e integração com RabbitMQ e Docker.
 
 ## Micro-serviços
 
@@ -16,6 +17,7 @@ O projeto EnterpriseMicroservices é uma aplicação composta por três micro-se
 - Entity Framework Core
 - SQL Server
 - Docker
+- Swagger
 
 ### OrderService
 
@@ -27,6 +29,7 @@ O projeto EnterpriseMicroservices é uma aplicação composta por três micro-se
 - SQL Server
 - RabbitMQ
 - Docker
+- Swagger
 
 ### NotificationService
 
@@ -36,6 +39,7 @@ O projeto EnterpriseMicroservices é uma aplicação composta por três micro-se
 - .NET 8
 - RabbitMQ
 - Docker
+- Swagger
 
 ## Tecnologias e Ferramentas Utilizadas
 
@@ -63,6 +67,9 @@ Prática de desenvolvimento onde os testes são escritos antes do código funcio
 
 A arquitetura de micro-serviços foi adotada para dividir a aplicação em serviços pequenos, independentes e focados em um único propósito. Isso facilita a escalabilidade, manutenção e desenvolvimento de novas funcionalidades.
 
+### Swagger
+
+Utilizado para documentação automática das APIs, facilitando a interação e teste dos endpoints disponíveis.
 
 ## Configuração e Execução
 
@@ -114,7 +121,7 @@ A arquitetura de micro-serviços foi adotada para dividir a aplicação em servi
 
 ## TDD (Test-Driven Development)
 
-Os testes foram escritos antes do código funcional para garantir a qualidade e robustez dos micro-serviços. Utilizei xUnit para escrever e executar os testes. 
+Os testes foram escritos antes do código funcional para garantir a qualidade e robustez dos micro-serviços. Utilizei xUnit para escrever e executar os testes.
 
 Exemplo de um teste no `OrderService`:
 
@@ -211,5 +218,3 @@ Se você deseja contribuir com este projeto, por favor siga os passos abaixo:
 Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-
-Se precisar de mais alguma coisa, estou à disposição!
